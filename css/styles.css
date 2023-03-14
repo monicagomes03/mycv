@@ -20,6 +20,10 @@ h2, h5{
 	color: darkslategray;
 }
 
+.language-name {
+	color: black;
+}
+
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
