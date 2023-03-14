@@ -16,6 +16,10 @@ h1, h2{
 	margin-bottom: 12px;
 }
 
+h2, h5{
+	color: darkslategray;
+}
+
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
@@ -62,9 +66,19 @@ h1, h2{
 
 .biography-section{
 	margin-left: 15px;
-	margin-bottom: 10px;
+	
+}
+
+.biography-section ul{
+	margin-bottom: 15px;
+	margin-right: 10px;
 }
 
 .biography-item{
 	margin-top: 20px;
 }
+
+.aside-section ul{
+	margin-bottom: 40px;
+}
+
