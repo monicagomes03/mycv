@@ -86,3 +86,14 @@ h2, h5{
 	margin-bottom: 40px;
 }
 
+.portuguese-level {
+	background-color: lightskyblue;
+}
+
+.english-level {
+	background-color: darkseagreen;
+}
+
+.language-border {
+	border-color: darkslategray!important;
+}
